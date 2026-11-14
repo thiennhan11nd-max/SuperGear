@@ -1,0 +1,15 @@
+name: SuperGear
+version: 1.0
+main: com.supergear.SuperGearPlugin
+api-version: '1.21'
+description: Cup + Kiem Xin - Rieng biet, khong lien quan Dungeon
+commands:
+  cup:
+    description: Lay Cup Than
+    usage: /cup
+  kiem:
+    description: Lay Kiem Than
+    usage: /kiem
+  supergear:
+    description: Lay ca Cup + Kiem
+    usage: /supergear
